@@ -1,14 +1,14 @@
 {
-  "main.css": "www.flashpopz.com/static/css/main.e23bd38e.chunk.css",
-  "main.js": "www.flashpopz.com/static/js/main.55b143cf.chunk.js",
-  "main.js.map": "www.flashpopz.com/static/js/main.55b143cf.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "www.flashpopz.com/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "www.flashpopz.com/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "www.flashpopz.com/static/js/runtime~main.1fcbe1f2.js",
-  "runtime~main.js.map": "www.flashpopz.com/static/js/runtime~main.1fcbe1f2.js.map",
-  "static/media/icons.css": "www.flashpopz.com/static/media/baseline-cancel-24px.77fca812.svg",
-  "static/css/main.e23bd38e.chunk.css.map": "www.flashpopz.com/static/css/main.e23bd38e.chunk.css.map",
-  "index.html": "www.flashpopz.com/index.html",
-  "precache-manifest.a1264d801cd19184dc0b0e3c703f0111.js": "www.flashpopz.com/precache-manifest.a1264d801cd19184dc0b0e3c703f0111.js",
-  "service-worker.js": "www.flashpopz.com/service-worker.js"
+  "main.css": "/Flash/static/css/main.003c0680.chunk.css",
+  "main.js": "/Flash/static/js/main.2e390a85.chunk.js",
+  "main.js.map": "/Flash/static/js/main.2e390a85.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/Flash/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/Flash/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/Flash/static/js/runtime~main.537883da.js",
+  "runtime~main.js.map": "/Flash/static/js/runtime~main.537883da.js.map",
+  "static/media/icons.css": "/Flash/static/media/baseline-cancel-24px.77fca812.svg",
+  "static/css/main.003c0680.chunk.css.map": "/Flash/static/css/main.003c0680.chunk.css.map",
+  "index.html": "/Flash/index.html",
+  "precache-manifest.baad2c9c9463c5a9f0646121b73d2064.js": "/Flash/precache-manifest.baad2c9c9463c5a9f0646121b73d2064.js",
+  "service-worker.js": "/Flash/service-worker.js"
 }
