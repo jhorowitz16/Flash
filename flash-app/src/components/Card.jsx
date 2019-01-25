@@ -35,7 +35,7 @@ class Card extends Component {
 
         <div className='card__screens'>
           <p>flashpopZ Content TBD</p>
-          <img alt="flashpopz-large" src="../../flashpopz-large.png" height='200px'/>
+          <img alt="flashpopz-large" src="flashpopz-large.png" height='200px'/>
         </div>
 
       </div>
