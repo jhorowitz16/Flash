@@ -1,0 +1,13 @@
+
+// sizes
+.button--medium {
+  width: 56px;
+}
+
+
+// colors
+.button--teal {
+  padding: 100px;
+  color: #0178CD;
+  background: #0178CD;
+}
