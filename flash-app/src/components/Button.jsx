@@ -7,13 +7,15 @@ class Button extends Component {
   static propTypes = {
     color: PropTypes.string,
     size: PropTypes.string,
-    text: PropTypes.string
+    text: PropTypes.string,
+    onClick: PropTypes.func
   };
 
   static defaultProps = {
     color: "teal",
     size: "medium",
-    text: ""
+    text: "",
+    onClick: () => null
   }
 
   shouldComponentUpdate(nextState) {
@@ -21,14 +23,14 @@ class Button extends Component {
   }
 
   render() {
-    const { color, size, text } = this.props;
+    const { color, onClick, size, text } = this.props;
     const colorClass = "button--" + color;
     const sizeClass = "button--" + size;
     const buttonClasses = colorClass + " " + sizeClass;
 
     return (
       <div className={buttonClasses}>
-        <button>
+        <button onClick={onClick}>
           { text }
         </button>
       </div>
