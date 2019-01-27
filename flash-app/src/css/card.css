@@ -56,3 +56,15 @@
   border-radius: 8px;
   box-shadow: 0px 0px 4px rgba(0,0,0,0.15) inset;
 }
+
+.card__navigation {
+  margin-top: 8px;
+}
+
+.card__navigation--right {
+  float: right;
+}
+
+.card__navigation--left {
+  float: left;
+}

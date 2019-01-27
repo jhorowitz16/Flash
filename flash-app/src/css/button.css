@@ -1,0 +1,11 @@
+.button--medium {
+  width: 56px;
+  height: 14px;
+  padding:10px;
+}
+
+
+.button--teal {
+  /* padding: 100px; */
+  background: #0178CD;
+}
