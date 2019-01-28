@@ -43,7 +43,7 @@ class Card extends Component {
           </a>
           <div className="card__panel__banner">
             <span>
-              Wordz with Friendz: Lesson 1
+              Chihayafuru: Lesson 1
             </span>
           </div>
           <div className="card__panel__control-panel">
